@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    min-height: 50vh;
+    line-height: 1.8;
+    background: rgb(27, 27, 27);
+    font-family: fantasy;
+}
+
+.card{
+    color: aliceblue;
+    background-image: url(https://thumbs.dreamstime.com/b/celebration-background-golden-champagne-bottle-confetti-stars-party-streamers-christmas-birthday-wedding-flat-lay-161039153.jpg);
+    background-size: cover;
+
+
+}
